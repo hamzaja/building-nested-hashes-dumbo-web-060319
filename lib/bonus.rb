@@ -19,8 +19,7 @@ def bonus
       ]
    }
   }
-
-epic
+epic_tragedy[:Montague][:hero]
   
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
